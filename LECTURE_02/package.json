@@ -1,11 +1,18 @@
 {
-  "name": "lecture02",
+  "name": "lecture_02",
   "version": "1.0.0",
-  "description": "This is Namaste React lec02",
-  "main": "App.js",
+  "description": "This is a react series ",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "react"
+  ],
+  "author": "jyotirmoy",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.14.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
 }

@@ -1,4 +1,4 @@
-# --------------------------Namaste_React_🚀----------------------------
+# -------------------Namaste_React_🚀--------------------
 
 # Parcel
 - Dev Build
@@ -23,11 +23,11 @@
 # Types of Export/Import
 
 -Default Export/Import
-    export default Component
-    import Component from "path"
+    --export default Component
+    --import Component from "path"
 
 -Named Export/Import
-    export const Component = () => {
+    --export const Component = () => {
         ...
     }
-    import {Component} from "path"
+    --import {Component} from "path"

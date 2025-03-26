@@ -1,0 +1,42 @@
+.header {
+  border: 1px solid #9acd32;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.logo {
+  width: 80px;
+  padding: 0 30px;
+}
+
+.nav-items ul {
+  list-style: none;
+  display: flex;
+}
+
+.nav-items ul li {
+  margin: 10px;
+  padding: 10px 30px;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  gap: 10px;
+  display: flex;
+}
+
+.res-card {
+  border: 1px solid #9acd32;
+  width: 200px;
+  padding: 10px;
+}
+
+.res-card img {
+  width: 100%;
+}
+/*# sourceMappingURL=Lecture_05.3a01df49.css.map */

@@ -1,4 +1,4 @@
-# Namaste_React_🚀
+# --------------------------Namaste_React_🚀----------------------------
 
 # Parcel
 - Dev Build
@@ -18,3 +18,16 @@
 - HTTPS
 - Tree Shacking Algo - remove unused code 
 - Different ev and prod builds
+
+
+# Types of Export/Import
+
+-Default Export/Import
+    export default Component
+    import Component from "path"
+
+-Named Export/Import
+    export const Component = () => {
+        ...
+    }
+    import {Component} from "path"

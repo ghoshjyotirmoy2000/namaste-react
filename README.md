@@ -22,12 +22,12 @@
 
 # Types of Export/Import
 
--Default Export/Import
-    --export default Component
-    --import Component from "path"
+- Default Export/Import
+    -- export default Component
+    -- import Component from "path"
 
--Named Export/Import
-    --export const Component = () => {
+- Named Export/Import
+    -- export const Component = () => {
         ...
     }
-    --import {Component} from "path"
+    -- import {Component} from "path"

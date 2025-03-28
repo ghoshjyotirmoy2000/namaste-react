@@ -1,4 +1,4 @@
-export const resList = [
+const resList = [
     {
       "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
       info: {
@@ -9,7 +9,7 @@ export const resList = [
         areaName: "Salt Lake",
         costForTwo: "₹400 for two",
         cuisines: ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
-        avgRating: 4.2,
+        avgRating: 3.2,
         parentId: "4961",
         avgRatingString: "4.2",
         totalRatingsString: "2.6K+",
@@ -667,7 +667,7 @@ export const resList = [
           "Desserts",
           "Beverages",
         ],
-        avgRating: 4.3,
+        avgRating: 3.3,
         parentId: "1776",
         avgRatingString: "4.3",
         totalRatingsString: "686",
@@ -748,3 +748,5 @@ export const resList = [
       widgetId: "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo",
     },
   ];
+
+  export default resList;

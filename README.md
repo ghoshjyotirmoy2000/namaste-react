@@ -31,3 +31,9 @@
         ...
     }
     -- import {Component} from "path"
+
+
+# React Hooks
+  - (Normal JS utility function)
+  - useState() - state variable in react.
+  - useEffect() - 

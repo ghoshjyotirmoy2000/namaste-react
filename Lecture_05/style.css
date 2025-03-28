@@ -20,9 +20,21 @@
     margin: 10px;
 }
 
-.search {
-    padding: 10px;
+.filter {
+    padding: 20px;
+}
 
+.filter-btn {
+    padding: 5px;
+    border: 2px solid yellowgreen;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.filter-btn:hover {
+    cursor: pointer;
+    background-color: grey;
+    color: white;
 }
 
 .res-container {

@@ -25,7 +25,7 @@ const parent = React.createElement(
 // creating element using react
 const heading = React.createElement(    
   "h1",
-  { id: "heading" },
+  { class: "heading" },
   "Hello world form react"
 );
 
